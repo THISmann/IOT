@@ -110,7 +110,5 @@ These services provide access to the data and system functionalities through das
 - **API and Dashboard Services**: Provide external access to data and offer visualization tools for real-time monitoring and control of the system.
 - **Device and System Management Services**: Ensure the fleet of devices is healthy, up-to-date, and functioning properly, with monitoring and scaling capabilities for the cloud infrastructure.
 
- ![1726313418080](image/readme/1726313418080.png)
 
-
-etc....
+![1726313664572](image/readme/1726313664572.png)
