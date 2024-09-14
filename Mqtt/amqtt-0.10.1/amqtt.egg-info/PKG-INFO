@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: amqtt
+Version: 0.10.1
+Summary: MQTT client/broker using Python asyncio
+Home-page: https://github.com/Yakifo/amqtt
+Author: aMQTT Contributers
+Requires-Python: >=3.7,<4.0
+Provides-Extra: ci
