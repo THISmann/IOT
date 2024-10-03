@@ -111,4 +111,4 @@ These services provide access to the data and system functionalities through das
 - **Device and System Management Services**: Ensure the fleet of devices is healthy, up-to-date, and functioning properly, with monitoring and scaling capabilities for the cloud infrastructure.
 
 
-![1726313664572](image/readme/1726313664572.png)
+ 
